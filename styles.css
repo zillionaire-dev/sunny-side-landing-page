@@ -135,6 +135,7 @@ header h1 {
 .transform-text,
 .standout-text {
   padding: 3rem 0.625rem;
+  text-align: center;
 }
 
 .transform-text h2,
